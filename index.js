@@ -22,7 +22,8 @@ function add2(n) {
 }
 
 function funkyFunction() {
-let funkyFunction = 'FUNKY!';
+var funkyFunction = 'FUNKY!';
+var theFunk = funkyFunction();
   return funkyFunction; 
   
 }
