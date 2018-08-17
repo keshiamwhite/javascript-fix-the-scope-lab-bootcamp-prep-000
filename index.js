@@ -31,7 +31,7 @@ function funkyFunction() {
 // NOTE: you only need to modify the code below this line.
 
   function theFunk() {
-  var theFunk = funkyFunction()
+  var theFunk = funkyFunction();
   return theFunk;
   }
   
